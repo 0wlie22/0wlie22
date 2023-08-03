@@ -15,7 +15,7 @@ jobs:
           
           config_timezone: Europe/Riga
           template: classic
-          base: header, activity, metadata
+          base: header, activity, metadata, community
           repositories_skipped: 0wlie22/0wlie22
           output_action: commit
           committer_message: "Update metrics"
