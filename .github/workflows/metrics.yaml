@@ -20,6 +20,5 @@ jobs:
           output_action: commit
           committer_message: "Update metrics"
           
-          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, txt, css, matlab
